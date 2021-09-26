@@ -1,2 +1,3 @@
 1 - Criacao do Layout do site
 2 - Criacao da tela de login do usuário
+3 - Criacao do feed de publicacao do site
